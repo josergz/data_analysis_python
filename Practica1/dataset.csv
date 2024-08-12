@@ -1,0 +1,101 @@
+﻿id,matricula,nombre,edad,nacionalidad,peso,estatura,carrera
+1,MAT001,Jose,13,Mexicana,,1.98,Ing. Ambiental
+2,MAT002,Maria,11,Canadiense,68.5,1.9,Ing. Civil
+3,MAT003,Laura,10,Estadounidense,49.5,1.82,Ing. Electromecanica
+4,MAT004,Luis,17,Española,NaN,1.65,Ing. Electromecanica
+5,MAT005,Jose,16,Canadiense,69.9,1.5,Ing. Ambiental
+6,MAT006,Elena,16,Mexicana,0,1.49,Ing. Bioquimica
+7,MAT007,Pedro,15,Española,74,1.55,Ing. Sistemas
+8,MAT008,Jose,17,Mexicana,,1.73,Ing. Bioquimica
+9,MAT009,Laura,14,Mexicana,62.7,1.83,Ing. Ambiental
+10,MAT010,Luis,12,Estadounidense,43.7,1.8,Ing. Electromecanica
+11,MAT011,Maria,13,Española,54.7,1.57,Ing. Bioquimica
+12,MAT012,Laura,17,Española,50.6,1.97,Ing. Electromecanica
+13,MAT013,Laura,15,Estadounidense,,1.84,Ing. Sistemas
+14,MAT014,Pedro,12,Canadiense,78.9,1.73,Ing. Electromecanica
+15,MAT015,Carmen,12,Mexicana,55.7,1.77,Ing. Electromecanica
+16,MAT016,Luis,10,Argentina,75.7,1.65,Ing. Civil
+17,MAT017,Ana,12,Mexicana,65.2,1.55,Ing. Civil
+18,MAT018,Laura,14,Mexicana,71.8,1.61,Administracion
+19,MAT019,Carmen,16,Canadiense,60.1,1.85,Ing. Civil
+20,MAT020,Ana,15,Mexicana,63.1,1.41,Ing. Electromecanica
+21,MAT021,Luis,12,Estadounidense,59.7,1.47,Ing. Ambiental
+22,MAT022,Juan,10,Estadounidense,47.8,1.43,Ing. Electromecanica
+23,MAT023,Elena,14,Española,68.9,1.42,Ing. Ambiental
+24,MAT024,Carmen,11,Argentina,51.2,1.91,Ing. Ambiental
+25,MAT025,Pablo,16,Mexicana,41,1.82,Ing. Civil
+26,MAT026,Juan,16,Mexicana,65.8,1.68,Ing. Bioquimica
+27,MAT027,Elena,15,Canadiense,47.1,1.46,Ing. Sistemas
+28,MAT028,Pedro,16,Estadounidense,77.6,1.69,Ing. Civil
+29,MAT029,Jose,12,Argentina,78.2,1.68,Ing. Civil
+30,MAT030,Maria,10,Española,76.6,1.5,Ing. Bioquimica
+31,MAT031,Pablo,16,Estadounidense,54.8,1.66,Ing. Sistemas
+32,MAT032,Pedro,16,Española,40.6,1.64,Ing. Electromecanica
+33,MAT033,Luis,11,Canadiense,77.1,1.77,Administracion
+34,MAT034,Pedro,11,Canadiense,57.1,1.78,Administracion
+35,MAT035,Jose,13,Mexicana,78.7,1.43,Ing. Electromecanica
+36,MAT036,Luis,14,Argentina,78.5,1.62,Ing. Civil
+37,MAT037,Pablo,12,Española,74.1,1.78,Ing. Sistemas
+38,MAT038,Jose,16,Estadounidense,51.8,1.7,Ing. Civil
+39,MAT039,Ana,17,Canadiense,55.4,1.91,Ing. Ambiental
+40,MAT040,Maria,16,Mexicana,74,1.8,Ing. Civil
+41,MAT041,Pablo,10,Mexicana,52.7,1.5,Ing. Civil
+42,MAT042,Ana,13,Española,46.8,1.44,Ing. Electromecanica
+43,MAT043,Elena,14,Canadiense,62.3,1.79,Ing. Electromecanica
+44,MAT044,Pablo,17,Argentina,77.4,1.42,Ing. Electromecanica
+45,MAT045,Elena,13,Canadiense,67.8,1.75,Administracion
+46,MAT046,Luis,15,Española,62.8,1.96,Ing. Ambiental
+47,MAT047,Ana,14,Española,43.9,1.75,Ing. Electromecanica
+48,MAT048,Maria,16,Canadiense,,1.63,Ing. Sistemas
+49,MAT049,Jose,16,Española,79.6,1.79,Administracion
+50,MAT050,Laura,14,Canadiense,45.6,1.67,Ing. Bioquimica
+51,MAT051,Pedro,16,Estadounidense,60.7,1.73,Ing. Sistemas
+52,MAT052,Juan,12,Canadiense,75.1,1.96,Ing. Sistemas
+53,MAT053,Maria,14,Canadiense,69.6,1.63,Ing. Electromecanica
+54,MAT054,Ana,13,Española,67.9,1.98,Ing. Bioquimica
+55,MAT055,Laura,14,Española,68.1,1.94,Ing. Bioquimica
+56,MAT056,Maria,17,Mexicana,54.4,1.52,Administracion
+57,MAT057,Ana,16,Mexicana,51.7,1.44,Ing. Bioquimica
+58,MAT058,Carmen,12,Estadounidense,72.4,1.46,Ing. Ambiental
+59,MAT059,Carmen,12,Mexicana,72.4,1.41,Ing. Electromecanica
+60,MAT060,Elena,15,Canadiense,74.7,1.46,Ing. Bioquimica
+61,MAT061,Maria,13,Española,76.5,1.81,Administracion
+62,MAT062,Carmen,11,Mexicana,60.5,1.44,Ing. Ambiental
+63,MAT063,Ana,11,Mexicana,60.1,1.59,Ing. Civil
+64,MAT064,Elena,14,Estadounidense,71.9,1.91,Ing. Civil
+65,MAT065,Ana,15,Estadounidense,66,1.41,Ing. Ambiental
+66,MAT066,Elena,10,Canadiense,68.1,1.89,Administracion
+67,MAT067,Maria,14,Española,71.8,1.57,Ing. Ambiental
+68,MAT068,Laura,15,Estadounidense,75.6,1.47,Ing. Electromecanica
+69,MAT069,Jose,13,Mexicana,53.5,1.82,Ing. Electromecanica
+70,MAT070,Pablo,13,Española,55,1.78,Ing. Civil
+71,MAT071,Laura,13,Española,43.8,1.93,Ing. Bioquimica
+72,MAT072,Luis,13,Mexicana,63.1,1.84,Administracion
+73,MAT073,Ana,13,Estadounidense,41.4,1.88,Ing. Civil
+74,MAT074,Luis,15,Mexicana,58.6,1.57,Ing. Bioquimica
+75,MAT075,Laura,15,Española,61.7,1.51,Ing. Bioquimica
+76,MAT076,Elena,12,Argentina,51.5,1.85,Ing. Electromecanica
+77,MAT077,Pablo,17,Argentina,63.6,1.88,Ing. Sistemas
+78,MAT078,Pablo,11,Canadiense,41.2,1.99,Ing. Sistemas
+79,MAT079,Juan,16,Mexicana,41.4,1.57,Ing. Civil
+80,MAT080,Luis,11,Mexicana,48.7,1.71,Ing. Electromecanica
+81,MAT081,Maria,14,Estadounidense,42.4,1.48,Ing. Sistemas
+82,MAT082,Jose,12,Canadiense,58.2,1.54,Ing. Civil
+83,MAT083,Carmen,15,Canadiense,41.4,1.95,Ing. Sistemas
+84,MAT084,Carmen,10,Argentina,78.3,1.61,Ing. Bioquimica
+85,MAT085,Juan,12,Mexicana,56.4,1.93,Ing. Bioquimica
+86,MAT086,Luis,10,Canadiense,66.1,1.58,Administracion
+87,MAT087,Laura,14,Argentina,50.8,1.73,Ing. Civil
+88,MAT088,Luis,11,Argentina,48.4,1.47,Administracion
+89,MAT089,Pedro,14,Mexicana,53.1,1.42,Ing. Bioquimica
+90,MAT090,Ana,16,Argentina,49.3,1.9,Ing. Bioquimica
+91,MAT091,Ana,17,Mexicana,60.1,1.64,Ing. Electromecanica
+92,MAT092,Jose,12,Estadounidense,50.5,1.48,Ing. Electromecanica
+93,MAT093,Carmen,12,Canadiense,67.8,1.53,Ing. Civil
+94,MAT094,Pablo,11,Estadounidense,60.2,1.43,Ing. Sistemas
+95,MAT095,Elena,13,Estadounidense,74.4,1.77,Ing. Sistemas
+96,MAT096,Laura,10,Mexicana,60.1,1.49,Ing. Bioquimica
+97,MAT097,Juan,13,Mexicana,44.9,1.46,Ing. Bioquimica
+98,MAT098,Maria,12,Argentina,46.1,1.44,Ing. Electromecanica
+99,MAT099,Elena,17,Estadounidense,69.3,1.9,Ing. Bioquimica
+100,MAT100,Jose,10,Estadounidense,78.1,1.98,Ing. Electromecanica
